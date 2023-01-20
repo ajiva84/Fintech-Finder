@@ -36,7 +36,7 @@ Before running the application first install the following dependencies.
 Use the following command to run the app
 
 ```git to the directory and type
- Streamlit run pychain.py
+ Streamlit run fintech_finder.py
  
 ```
 
