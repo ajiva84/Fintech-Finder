@@ -5,7 +5,7 @@
 -----------
 # Overview
 
-A web-based platform that provides an interface to hire and compensate a Fintech professional in cryptocurrency. It provides list of professionals with hourly rate and their wallet address for payments. User will just need to amount of hours worked by a professional and the app will calculate the payment amount to transfer. 
+A web-based platform that provides an interface to hire and compensate a Fintech professional in Crypto (Ether). It provides list of professionals with hourly rate and their wallet address for payments. User can enter the number of hours worked by a professional and the app will automatically calculate the ETH amount to transfer. 
 
 # Technologies
 
@@ -47,22 +47,15 @@ Use the following command to run the app
 
 ---
 ## Screenshots
-Input fields and the block display
-<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Record-blocks.png" width="1000" height="500">
+Account screen in Ganache
 
-
-
-----
-Transaction and block hashes with timestamp
-<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Transaction-hashesh-timestamp.png" width="1000" height="200">
-
-
+![Finanl Planning1](account_screen.png)
 
 ----
-Difficulty adjustor and block inspector
+Transaction and block hashes 
 
-<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Block-inspector-difficulty.png">
 
+![Finanl Planning2](Transaction-screen.png)
 
 
 ----
